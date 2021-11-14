@@ -1,7 +1,5 @@
 ### Hi there 👋
 # Hi guys! My name is Müslüm. Welcome to my GitHub.
-# 🌱 I’m currently learning
-# 💬 Ask me about     HTML5 CSS3 JS React
 
 
 ## I am a Fullstack Web Developer Candidate👋
