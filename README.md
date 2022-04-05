@@ -2,7 +2,7 @@
 # Hi guys! My name is Müslüm. Welcome to my GitHub.
 
 
-## I am a Fullstack Web Developer Candidate👋
+## I am a Frontedn Developer👋
 _____________________________________________________________
 
 ## 🚀 Skills
