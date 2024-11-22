@@ -78,8 +78,8 @@ ________________________________________________________________________________
 
 <img src="./images/content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
-- 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
-- 🌱 I’m currently working backend development ( Django)
+- 🔭 I’m currently working on frontend development (JavaScript | HTML | CSS | Angular |  Vue | React | TailwindCss | Ant-Design)
+- 🌱 I’m currently working backend development ( .Net Core)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/m%C3%BCsl%C3%BCm-yurtada/)
